@@ -1,0 +1,128 @@
+
+.a{
+    max-height: 610;
+    max-width: 470;
+    border-radius: 310px;
+    margin-right: 40%;
+    display: flex;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 42;
+    border: 30px;
+    padding: 20px;
+    margin-top: 50px;
+    color: rgb(186, 11, 255);
+    letter-spacing: 5px;
+    
+}
+
+.head3{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 3, 3);
+    font-size: 20;
+    padding: 25px;
+
+}
+.top{
+    border: 30px;
+    padding: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(10, 30, 34);
+    font-weight: 500;
+}
+
+h2{
+    text-align: left;
+    
+    
+}
+
+.g{
+    max-height: 600;
+    max-width: 400;
+    border: 30px;
+    padding: 20px;
+    display: flex;
+    margin-left: 6%;
+    border-radius: 200px;
+}
+
+.middle{
+    border: 100px;
+    padding: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(6, 1, 12);
+    font-weight: 500
+}
+
+.container{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 32, 37);
+    font-weight: 500;
+    background-color: rgb(255, 245, 233);
+    outline: auto;
+    outline-color: rgb(4, 44, 45);
+    outline-width: 1px;
+    
+
+}
+
+.icon1{
+    max-width: 160px;
+    max-height: 160px;
+    border-radius: 30px;
+    padding: 22px;
+}
+
+.inner1{
+    border: 40px;
+    padding: 22px;
+}
+
+.inner2{
+    border: 40px;
+    padding: 22px;
+}
+
+.inner2{
+    border: 40px;
+    padding: 22px;
+
+}
+
+.icon2{
+    max-width: 160px;
+    max-height: 160px;
+    border-radius: 100px;
+    padding: 22px;
+}
+
+.icon3{
+    max-width: 160px;
+    max-height: 160px;
+    border-radius: 100px;
+    padding: 22px;
+    margin-top: 10%;
+}
+
+.abilities{
+    border: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+    color: rgb(31, 15, 15);
+    padding: 55px;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(23, 31, 31);
+    font-weight: bolder;
